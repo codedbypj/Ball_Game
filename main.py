@@ -3,7 +3,7 @@ import os
 
 pygame.init()
 pygame.mixer.init()
-
+pygame.font.init()
 
 #fonts
 WINNER_FONT = pygame.font.SysFont('consolas', 70)
